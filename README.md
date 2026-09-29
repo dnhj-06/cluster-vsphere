@@ -1,10 +1,10 @@
 <img src="banner.svg" alt="Infrastructure VMware en équipe" width="100%">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/statut-terminé_·_en_service-22c55e?style=for-the-badge&labelColor=131317">
-  <img src="https://img.shields.io/badge/VMware-ESXi_·_vCenter-e5243b?style=for-the-badge&logo=vmware&logoColor=white&labelColor=131317">
-  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-e5243b?style=for-the-badge&labelColor=131317">
-  <img src="https://img.shields.io/badge/équipe-4_personnes-e5243b?style=for-the-badge&labelColor=131317">
+  <img src="https://img.shields.io/badge/statut-terminé_·_en_service-22c55e?style=flat-square&labelColor=131317">
+  <img src="https://img.shields.io/badge/VMware-ESXi_·_vCenter-2a2a31?style=flat-square&logo=vmware&logoColor=white&labelColor=131317">
+  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-2a2a31?style=flat-square&labelColor=131317">
+  <img src="https://img.shields.io/badge/équipe-4_personnes-2a2a31?style=flat-square&labelColor=131317">
 </p>
 
 # Infrastructure VMware en équipe
