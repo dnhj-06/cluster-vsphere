@@ -1,3 +1,9 @@
+<img src="banner.svg" alt="Infrastructure VMware en équipe" width="100%">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VMware_ESXi_6.5_/_8-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/vCenter_(VCSA_6.5)-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square"> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square"> <img src="https://img.shields.io/badge/Équipe-4_personnes-0ea5e9?style=flat-square">
+</p>
+
 # Infrastructure VMware en équipe
 
 Projet de groupe réalisé au **Geneva Institute of Technology** pendant ma première année de CFC d'informaticien.
@@ -44,3 +50,7 @@ Le matériel était ancien et les modèles différents (2 Dell, 1 HP), et c'est 
 - Se répartir le travail clairement quand on est plusieurs sur la même infra
 
 La documentation détaillée avec les captures d'écran est en cours de rédaction.
+
+---
+
+[← Retour à mon profil](https://github.com/dnhj-06) · [Mon CV](https://dnhj-06.github.io)
