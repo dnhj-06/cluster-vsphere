@@ -1,12 +1,17 @@
 <img src="banner.svg" alt="Infrastructure VMware en équipe" width="100%">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VMware_ESXi_6.5_/_8-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/vCenter_(VCSA_6.5)-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square"> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square"> <img src="https://img.shields.io/badge/Équipe-4_personnes-0ea5e9?style=flat-square">
+  <img src="https://img.shields.io/badge/statut-terminé_·_en_service-22c55e?style=for-the-badge&labelColor=131317">
+  <img src="https://img.shields.io/badge/VMware-ESXi_·_vCenter-e5243b?style=for-the-badge&logo=vmware&logoColor=white&labelColor=131317">
+  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-e5243b?style=for-the-badge&labelColor=131317">
+  <img src="https://img.shields.io/badge/équipe-4_personnes-e5243b?style=for-the-badge&labelColor=131317">
 </p>
 
 # Infrastructure VMware en équipe
 
 Projet de groupe réalisé au **Geneva Institute of Technology** pendant ma première année de CFC d'informaticien.
+
+> **✅ Projet terminé.** L'infrastructure est en service et utilisable par les élèves de la classe et de l'école.
 
 On était 4. Avec mon binôme, on a fait la plus grosse partie : deux des trois serveurs et le vCenter. Les deux autres nous ont rejoints ensuite et ont monté le troisième serveur.
 
